@@ -1,0 +1,20 @@
+{
+   "ques" : [
+    "1.Care este cel mai lung fluviu din Europa?",
+    "2.Ce tara din America de Sud are cea mai mare suprafata",
+    "3.Cate continente sunt pe pamant?",
+    "4.Cate state are Statele Unite ale Americii",
+    "5.In ce capitala europeana poti vizita Colosseum?"
+    ],
+
+    "options" : [
+    ["Elba", "Nipru", "Dunarea", "Volga"],
+    ["Chile","Brazilia","Argentina","Columbia"],
+    ["5", "10", "4", "7"],
+    ["100","75","50","10"],
+    ["Roma", "Berlin", "Bucuresti", "Madrid"]
+    ],
+
+    "ans" : [ 4, 2, 4, 3, 1]
+
+}
